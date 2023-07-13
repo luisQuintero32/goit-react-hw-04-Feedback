@@ -1,19 +1,20 @@
 .container {
-    margin: 50px auto;
-    width: 400px;
-    padding: 10px;
-  
-    background-color: white;
-    border-radius: 20px;
-  
-    box-shadow: 0px 0px 25px -10px blue;
+  margin: 50px auto;
+  width: 400px;
+  padding: 10px;
+
+  background-color: white;
+  border-radius: 20px;
+
+  box-shadow: 0px 0px 25px -10px blue;
 }
 
 * {
-    transition: all 350ms ease;
-    background-color: rgb(211, 211, 211);
+  transition: all 350ms ease;
+  background-color: rgb(211, 211, 211);
 }
 .buttonsCont {
-    display: flex;
-    flex-direction: row;
-  }
+  display: flex;
+  flex-direction: row;
+  background-color: white;
+}
