@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import style from './App.module.css';
 import Section from './Section/Section';
-import FeedbackButton from './FeedbackButton/FeedbackButton';
+import FeedbackButton from './FeedbackButton/feedbackButton';
 import Statistics from './Statistics/Statistics';
 import Notifications from './Notifications/Notifications';
 
